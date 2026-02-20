@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "name": "Stephen Collier",
+    "role": "Senior Partner",
+    "image": "img/circle1.jpg",
+    "specialization": "Commercial Projects",
+    "experience": "15 years"
+  },
+  {
+    "id": 2,
+    "name": "Ferris Wonder",
+    "role": "Associate Partner",
+    "image": "img/circle2.jpg",
+    "specialization": "Residential Design",
+    "experience": "10 years"
+  },
+  {
+    "id": 3,
+    "name": "Niko Ferry",
+    "role": "Partner",
+    "image": "img/circle3.jpg",
+    "specialization": "Cultural Buildings",
+    "experience": "12 years"
+  },
+  {
+    "id": 4,
+    "name": "Nolan Peters",
+    "role": "Associate",
+    "image": "img/circle4.jpg",
+    "specialization": "Interior Design",
+    "experience": "8 years"
+  },
+  {
+    "id": 5,
+    "name": "Aria Stone",
+    "role": "Senior Partner",
+    "image": "img/circle5.jpg",
+    "specialization": "Sustainable Architecture",
+    "experience": "14 years"
+  }
+]

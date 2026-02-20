@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1,
+    "title": "Big Road Brewery",
+    "location": "New York",
+    "category": "commercial",
+    "image": "img/featuredimg1.jpg",
+    "description": "Индустриальное здание пивоварни с современным дизайном и открытыми пространствами.",
+    "price": 150000,
+    "area": 1200,
+    "year": 2023,
+    "architect": "Stephen Collier"
+  },
+  {
+    "id": 2,
+    "title": "Modern Gallery",
+    "location": "Boston",
+    "category": "cultural",
+    "image": "img/featuredimg2.jpg",
+    "description": "Минималистичное пространство для современного искусства с естественным освещением.",
+    "price": 280000,
+    "area": 800,
+    "year": 2022,
+    "architect": "Ferris Wonder"
+  },
+  {
+    "id": 3,
+    "title": "Ocean Villa",
+    "location": "Miami",
+    "category": "residential",
+    "image": "img/featuredimg3.jpg",
+    "description": "Роскошная вилла с панорамным видом на океан и интеграцией с природой.",
+    "price": 450000,
+    "area": 650,
+    "year": 2024,
+    "architect": "Niko Ferry"
+  },
+  {
+    "id": 4,
+    "title": "Reeding House",
+    "location": "London",
+    "category": "residential",
+    "image": "img/img1.jpg",
+    "description": "Классический викторианский дом с современной стеклянной пристройкой.",
+    "price": 320000,
+    "area": 450,
+    "year": 2021,
+    "architect": "Nolan Peters"
+  },
+  {
+    "id": 5,
+    "title": "Marble Staircase",
+    "location": "Paris",
+    "category": "commercial",
+    "image": "img/img2.jpg",
+    "description": "Элегантный офисный комплекс с центральным мраморным атриумом.",
+    "price": 550000,
+    "area": 2000,
+    "year": 2023,
+    "architect": "Aria Stone"
+  },
+  {
+    "id": 6,
+    "title": "Swirling Staircase",
+    "location": "Berlin",
+    "category": "cultural",
+    "image": "img/img3.jpg",
+    "description": "Филармония с уникальной винтовой лестницей и акустикой мирового класса.",
+    "price": 380000,
+    "area": 1500,
+    "year": 2022,
+    "architect": "Stephen Collier"
+  }
+]
